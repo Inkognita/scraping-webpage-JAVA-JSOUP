@@ -1,0 +1,226 @@
+productSellerID,productCategoryID,productID,productVendorID,productMerchantID,productPosition,productLocation,stars,numberReviews,productName,productPrice,productCondition
+5,80164,197689,152,2,0,Catalog,90,80,Кавоварка GORENJE TCM 300 W,24.63,new
+5,80164,301161,3096,2,1,Catalog,90,66,Крапельна кавоварка MAGIO MG-344,15.67,new
+5,80164,84696,206,2,2,Catalog,100,1,Кавомашина DELONGHI ECAM 23.210 B +набір стаканів DELONGHI,455.37,new
+5,80164,3142655,206,2,3,Catalog,90,20,Кавомашина DELONGHI ETAM 29.660.SB + набір стаканів DELONGHI,721.02,new
+5,80164,14458946,182,2,4,Catalog,100,2,Кавомашина SAECO Incanto HD8912/09,569.22,new
+5,80164,8607775,206,2,5,Catalog,100,4,Кавоварка еспресо DELONGHI ECP 35.31 BK Silver,189.72,new
+5,80164,12284217,216,2,6,Catalog,80,13,Кавоварка еспресо VITEK VT-1525 BK,98.48,new
+5,80164,2483507,206,2,7,Catalog,80,11,Кавоварка DELONGHI EC 153 B,106.22,new
+5,80164,6284565,206,2,8,Catalog,100,6,Кавомашина DELONGHI ECAM 23.464 S+набір стаканів DELONGHI,683.07,new
+5,80164,12238465,182,2,9,Catalog,100,4,Кавомашина SAECO Incanto HD8916/09,629.94,new
+5,80164,1542977,23,2,10,Catalog,100,11,Кавоварка PHILIPS Daily Collection HD7457/20,45.5,new
+5,80164,303286,216,2,11,Catalog,90,11,Кавоварка VITEK VT-1514 BK,168.31,new
+5,80164,39965,206,2,12,Catalog,100,5,Кавомашина DELONGHI ESAM 3200 S +набір стаканів DELONGHI,379.47,new
+5,80164,512160,206,2,13,Catalog,100,3,Кавомашина DELONGHI ECAM 23.460 B + Кава KIMBO,622.35,new
+5,80164,80715,206,2,14,Catalog,90,18,Кавомашина DELONGHI ESAM 4000 B+набір стаканів DELONGHI,379.47,new
+5,80164,193245,206,2,15,Catalog,90,15,Кавомашина DELONGHI ESAM 4200 S+набір стаканів DELONGHI,360.49,new
+5,80164,4636335,23,2,16,Catalog,100,4,Кавомашина PHILIPS 2000 series HD8649/51,341.52,new
+5,80164,18848130,206,2,17,Catalog,None,0,Кавомашина DELONGHI PrimaDonna S Evo ECAM 510.55.M,1366.19,new
+5,80164,12477922,166,2,18,Catalog,100,1,Кавоварка BEKO BKK 2300 (по-турецки),121.4,new
+5,80164,211471,206,2,19,Catalog,100,2,Кавомашина DELONGHI ESAM 04.350.S+набір стаканів DELONGHI,569.22,new
+5,80164,11181853,206,2,20,Catalog,60,2,Кавоварка еспресо DELONGHI ECP 31.21 BK,113.81,new
+5,80164,221493,206,2,21,Catalog,90,6,Кавомашина DELONGHI ESAM 2600,379.47,new
+5,80164,2692732,206,2,22,Catalog,90,26,Кавоварка DELONGHI EC 156 B,110.02,new
+5,80164,301158,3096,2,23,Catalog,90,21,Крапельна кавоварка MAGIO MG-342,13.47,new
+5,80164,17219611,206,2,24,Catalog,100,1,Кавоварка еспресо DELONGHI BCO 410.1 BLACK,165.09,new
+5,80164,6308109,182,2,25,Catalog,90,11,Кавомашина SAECO Incanto HD8918/09,673.62,new
+5,80164,2103572,206,2,26,Catalog,80,7,Кавоварка DELONGHI EC 146 B,102.43,new
+5,80164,18128412,23,2,27,Catalog,100,2,Кавомашина PHILIPS 2000 series HD8650/09,284.59,new
+5,80164,100696,216,2,28,Catalog,90,49,Кавоварка VITEK VT-1511 BK,87.1,new
+5,80164,17916528,206,2,29,Catalog,None,0,Кавоварка еспресо DELONGHI ESAM 2800 SB+набір стаканів DELONGHI,379.47,new
+5,80164,129276,216,2,30,Catalog,90,242,Кавоварка VITEK VT-1513 BK,89.18,new
+5,80164,105138,206,2,31,Catalog,None,0,Кавоварка еспресо DELONGHI BCO 260 CD,151.76,new
+5,80164,15222413,206,2,0,Catalog,None,0,Кавомашина DELONGHI ECAM 350.55 B+набір стаканів DELONGHI,986.68,new
+5,80164,2790332,206,2,1,Catalog,100,3,Кавомашина DELONGHI ESAM 6704 Avant+набір стаканів DELONGHI,1707.74,new
+5,80164,252316,206,2,2,Catalog,None,0,Кавомашина DELONGHI ECAM 22.360 B + набір стаканів DELONGHI,645.12,new
+5,80164,252317,206,2,3,Catalog,100,1,Кавомашина DELONGHI ECAM 22.360 S+набір стаканів DELONGHI,645.12,new
+5,80164,194426,206,2,4,Catalog,100,2,Кавомашина DELONGHI ECAM 22.110 B+набір стаканів DELONGHI,493.32,new
+5,80164,7239820,206,2,5,Catalog,None,0,Кавомашина DELONGHI ECAM 28.464 M+набір стаканів DELONGH,1328.24,new
+5,80164,244632,206,2,6,Catalog,100,1,Кавомашина DELONGHI ECAM 21.117 SB+набір стаканів DELONGHI,493.32,new
+5,80164,6369280,206,2,7,Catalog,100,1,Кавомашина DELONGHI ECAM 45.764.W Eletta Cappucino Top,1138.48,new
+5,80164,11257201,23,2,8,Catalog,90,2,Кавомашина PHILIPS 3100 series HD8828/09,557.84,new
+5,80164,169614,206,2,9,Catalog,90,3,Кавомашина DELONGHI ECAM 22.110 SB Кава KIMBO,493.32,new
+5,80164,13921,206,2,10,Catalog,90,12,Кавомашина DELONGHI ESAM 3000 B+набір стаканів DELONGHI,379.47,new
+5,80164,12155102,3096,2,11,Catalog,90,14,Крапельна кавоварка MAGIO MG-347,16.09,new
+5,80164,13917,206,2,12,Catalog,40,1,Кавоварка еспресо DELONGHI ESAM 6600 STEEL,1070.17,new
+5,80164,2130562,206,2,13,Catalog,None,0,Кавоварка DELONGHI ECOV 311 BG,227.67,new
+5,80164,1107944,182,2,14,Catalog,80,18,Кавоварка SAECO HD8323/39,144.17,new
+5,80164,274016,2499,2,15,Catalog,80,2,Кавоварка MYSTERY MCB 5125,109.6,new
+5,80164,1347612,182,2,16,Catalog,90,14,Кавоварка SAECO Manual Poemia HD8327/99,168.65,new
+5,80164,15299707,266,2,17,Catalog,None,0,Кавоварка еспресо POLARIS PCM 1515E Adore Crema,97.91,new
+5,80164,14786025,1063,2,18,Catalog,100,1,Кавоварка еспресо Saturn ST-CM 7094,62.62,new
+5,80164,9829894,266,2,19,Catalog,100,3,Краплинна кавоварка POLARIS PCM 0109,11.2,new
+5,80164,16808444,195,2,20,Catalog,90,2,Капсульна кавоварка KRUPS DOLCE GUSTO PICCOLO KP100010,91.04,new
+5,80164,324086,1545,2,21,Catalog,90,18,Кавоварка HILTON KA 5413,11.16,new
+5,80164,1165095,23,2,22,Catalog,90,12,Кавоварка PHILIPS Daily Collection HD7447/00,37.91,new
+5,80164,16188236,291,2,23,Catalog,None,0,Кавоварка ARIETE 1342 GR,75.86,new
+5,80164,123377,195,2,24,Catalog,None,0,Кавомашина KRUPS EA 8010,493.32,new
+5,80164,16807958,195,2,25,Catalog,100,1,Капсульна кавоварка KRUPS DOLCE GUSTO DROP KP350B10,163.15,new
+5,80164,16808396,195,2,26,Catalog,100,1,Капсульна кавоварка KRUPS DOLCE GUSTO DROP KP350510,163.15,new
+5,80164,16204214,152,2,27,Catalog,100,3,Кавоварка GORENJE ATCM 730 T,75.86,new
+5,80164,6369274,206,2,28,Catalog,None,0,Кавомашина DELONGHI ETAM 36.364 М DE LUXE,1328.24,new
+5,80164,18758467,23,2,29,Catalog,None,0,Кавомашина PHILIPS 3100 series HD8829/09,455.37,new
+5,80164,416489,2499,2,30,Catalog,90,17,Кавоварка MYSTERY MCB-5120,68.27,new
+5,80164,7147479,152,2,31,Catalog,80,4,Кавоварка GORENJE TCM800E,38.52,new
+5,80164,15116104,182,2,0,Catalog,100,1,Кавоварка еспресо SAECO POEMIA HD8325/79,166.94,new
+5,80164,1998937,2926,2,1,Catalog,90,3,Кавоварка SENCOR SCE 2001 WH,17.04,new
+5,80164,6276615,182,2,2,Catalog,100,3,Кавомашина SAECO GranBaristo HD8975/01+Термокухоль PHILIPS,1370.17,new
+5,80164,6605637,216,2,3,Catalog,90,34,Кавоварка еспресо VITEK VT-1517 BN,163.95,new
+5,80164,1998942,2926,2,4,Catalog,100,2,Кавоварка SENCOR SCE 2002 GR,17.04,new
+5,80164,1343327,150,2,5,Catalog,90,3,Кавоварка ELECTROLUX EKF5300,57.38,new
+5,80164,17700870,189,2,6,Catalog,None,0,Кавоварка еспресо MIELE CM 6150,1218.22,new
+5,80164,7619993,206,2,7,Catalog,80,1,Кавоварка DELONGHI ECP 33.21 BK Silver,178.33,new
+5,80164,199039,1063,2,8,Catalog,80,1,Крапельна кавоварка SATURN ST-CM7081 Sofia,12.71,new
+5,80164,12469333,2522,2,9,Catalog,None,0,Кавомашина NIVONA NICR 839,1192.83,new
+5,80164,8606403,102311,2,10,Catalog,80,1,Капельна кавоварка FIRST FA-5453-2,15.14,new
+5,80164,221680,206,2,11,Catalog,90,11,Кавомашина DELONGHI ESAM 2200.S,379.47,new
+5,80164,1343322,150,2,12,Catalog,None,0,Кавоварка ELECTROLUX EKF3240,33.78,new
+5,80164,2490292,206,2,13,Catalog,None,0,Кавомашина DELONGHI ECAM 44.664 B ELETTA CAPPUCCINO,1138.48,new
+5,80164,3248837,206,2,14,Catalog,90,2,Кавоварка DELONGHI ECOV 311 AZ,227.67,new
+5,80164,6276603,23,2,15,Catalog,100,2,Кавомашина PHILIPS 3100 series HD8826/09,411.5,new
+5,80164,18962937,206,2,16,Catalog,None,0,Кавоварка еспресо DELONGHI EC 685 W,303.57,new
+5,80164,1643607,182,2,17,Catalog,90,25,Кавоварка SAECO RI8329/09,128.99,new
+5,80164,4636349,23,2,18,Catalog,None,0,Кавомашина PHILIPS 4000 series HD8842/09,476.2,new
+5,80164,1224580,206,2,19,Catalog,70,18,Кавоварка DELONGHI SCULTURA ECZ 351.BK,196.13,new
+5,80164,1998947,2926,2,20,Catalog,60,1,Кавоварка SENCOR SCE 2003 RD,16.7,new
+5,80164,15221412,206,2,21,Catalog,None,0,Кавомашина DELONGHI ECAM 350.15 B,702.05,new
+5,80164,15209974,266,2,22,Catalog,None,0,Кавоварка еспресо POLARIS PCM 1519AE,177.8,new
+5,80164,2371762,206,2,23,Catalog,100,1,Кавоварка DELONGHI ECOV 311 GR,227.67,new
+5,80164,14189366,182,2,24,Catalog,None,0,Кавомашина SAECO Incanto HD8919/59,758.98,new
+5,80164,12703420,153,2,25,Catalog,None,0,Кавомашина вбудовувана WHIRLPOOL ACE IXL,1388.08,new
+5,80164,2120882,1063,2,26,Catalog,90,9,Кавоварка SATURN ST-CM7080 New black,29.03,new
+5,80164,15222364,206,2,27,Catalog,None,0,Кавомашина DELONGHI ECAM 350.35 W+набір стаканів DELONGHI,721.02,new
+5,80164,15215637,123313,2,28,Catalog,70,2,Крапельна кавоварка PRINCESS Compact4All 244000,35.1,new
+5,80164,11542794,13,2,29,Catalog,100,3,Кавомашина SIEMENS TI 905201 RW,2352.9,new
+5,80164,3413676,206,2,30,Catalog,None,0,Кавоварка еспресо DELONGHI ECI 341 W,227.67,new
+5,80164,2045387,198,2,31,Catalog,80,2,Кавоварка MOULINEX SUBITO 3 FCM FG360830,44.74,new
+5,80164,2566587,206,2,0,Catalog,None,0,Кавоварка еспресо DELONGHI ECI 341 BZ,227.67,new
+5,80164,639875,150,2,1,Catalog,90,14,Кавоварка ELECTROLUX EEA 111,113.02,new
+5,80164,2371757,206,2,2,Catalog,80,3,Кавоварка DELONGHI ECOV 311 BK,227.67,new
+5,80164,14785787,1063,2,3,Catalog,100,5,Кавоварка Saturn ST-CM 7085,14.16,new
+5,80164,1117890,206,2,4,Catalog,100,4,Кавоварка DELONGHI EC 680 BK,303.57,new
+5,80164,19833653,2103,2,5,Catalog,None,0,Крапельна кавоварка RUSSELL HOBBS RETRO RIBBON RED (21700-56),105.84,new
+5,80164,15220796,1149,2,6,Catalog,None,0,Кавоварка еспресо CLATRONIC ES 3643,124.82,new
+5,80164,9856389,291,2,7,Catalog,70,3,Кавоварка еспрессо ARIETE 1389 BL,166.94,new
+5,80164,2039862,2499,2,8,Catalog,90,11,Кавоварка MYSTERY MCB-5115,66.38,new
+5,80164,4436332,2522,2,9,Catalog,100,1,Кавомашина NIVONA NICR 848,1330.93,new
+5,80164,16203788,291,2,10,Catalog,100,1,Кавоварка ARIETE 1342 BL,75.86,new
+5,80164,506840,1149,2,11,Catalog,None,0,Крапельна кавоварка CLATRONIC KA 3473 White,28.24,new
+5,80164,17701818,189,2,12,Catalog,100,1,Кавоварка еспресо MIELE CM 7500 Black,2838.33,new
+5,80164,1904402,2103,2,13,Catalog,None,0,Кавоварка RUSSELL HOBBS Allure (20060-56),193.43,new
+5,80164,12470271,2522,2,14,Catalog,None,0,Кавомашина NIVONA NICR 758,879.28,new
+5,80164,11950716,203,2,15,Catalog,None,0,Крапельна кавоварка SCARLETT SC-CM33002,28.73,new
+5,80164,11542500,13,2,16,Catalog,40,1,Кавомашина SIEMENS TE 515209 RW,872.83,new
+5,80164,16076210,2522,2,17,Catalog,None,0,Кавоварка еспресо NIVONA NICR 646,611.65,new
+2972,80164,16906034,182,17,18,Catalog,None,0,Кавомашина SAECO Lirika RI9840/01 BLACK,342.92,new
+2972,80164,16906112,182,17,19,Catalog,100,1,Кавоварка еспресо SAECO Odea Go GREY,284.59,new
+2972,80164,16906454,182,17,20,Catalog,60,1,Кавоварка еспресо SAECO Odea Giro GREY,297.87,new
+5,80164,18962517,206,2,21,Catalog,None,0,Кавоварка еспресо DELONGHI EC 685 BK,303.57,new
+5,80164,2984350,148,2,22,Catalog,100,1,Кавомашина вбудовувана BOSCH CTL 636 EB1,2221.21,new
+5,80164,11542556,13,2,23,Catalog,None,0,Кавомашина SIEMENS TE 603201 RW,1054.99,new
+5,80164,16075016,2522,2,24,Catalog,None,0,Кавоварка еспресо NIVONA NICR 626,533.93,new
+5,80164,18760651,23,2,25,Catalog,None,0,Кавомашина PHILIPS 3100 series HD8827/09,417.42,new
+5,80164,18962979,206,2,26,Catalog,None,0,Кавоварка еспресо DELONGHI EC 685 M,303.57,new
+5,80164,12469508,2522,2,27,Catalog,None,0,Кавомашина NIVONA NICR 788,967.32,new
+5,80164,17701404,189,2,28,Catalog,None,0,Кавоварка еспресо MIELE CM 6350 Brilliant White,1577.99,new
+5,80164,9962117,266,2,29,Catalog,90,7,Кавоварка POLARIS PCM 1516E Adore Crema,131.27,new
+5,80164,17701476,189,2,30,Catalog,None,0,Кавоварка еспресо MIELE CM 6350 Graphite Grey,1577.99,new
+5,80164,17701644,189,2,31,Catalog,None,0,Кавоварка еспресо MIELE CM 6350 Black,1577.99,new
+5,80164,489015,2522,2,0,Catalog,None,0,Кавомашина NIVONA NICR 830,890.51,new
+5,80164,1998932,2926,2,1,Catalog,80,5,Кавоварка SENCOR SCE 2000 BK,17.23,new
+5,80164,1117885,206,2,2,Catalog,None,0,Кавоварка DELONGHI EC 680 R,303.57,new
+5,80164,2984357,148,2,3,Catalog,None,0,Вбудована кавомашина BOSCH CTL 636 ES1,2221.21,new
+5,80164,3824399,189,2,4,Catalog,None,0,Кавомашина MIELE CM6110 Black,1035.48,new
+5,80164,489010,2522,2,5,Catalog,None,0,Кавоварка еспресо NIVONA NICR 831,890.28,new
+5,80164,503935,2926,2,6,Catalog,None,0,Кавоварка SENCOR SCE 5000 BK,28.8,new
+5,80164,4574021,206,2,7,Catalog,None,0,Кавоварка DELONGHI ECI 341 CP,227.67,new
+5,80164,284212,2926,2,8,Catalog,None,0,Кавоварка SENCOR SCE 5000 WH,28.43,new
+5,80164,7720366,121054,2,9,Catalog,40,1,Капельна кавоварка PETRA KM 90.07,232.6,new
+2972,80164,16906226,182,17,10,Catalog,100,1,Кавомашина SAECO Lirika OTC RI9851/01 GREY,419.92,new
+5,80164,1896042,3142,2,11,Catalog,90,5,Кавоварка еспресо REDMOND RCM-1503,110.02,new
+5,80164,15213607,1757,2,12,Catalog,None,0,Крапельна кавоварка TRISTAR CM-1244,54.54,new
+5,80164,15215112,1757,2,13,Catalog,None,0,Кавоварка еспресо TRISTAR CM-2273,128.05,new
+5,80164,15215385,123313,2,14,Catalog,None,0,Крапельна кавоварка PRINCESS 242239 Belluno,96.81,new
+5,80164,15220432,1149,2,15,Catalog,100,2,Крапельна кавоварка CLATRONIC KA 3642,44.14,new
+2972,80164,16905896,182,17,16,Catalog,60,1,Кавомашина SAECO Lirika Plus Cappuccino RI9841/01 SILVER,410.13,new
+5,80164,1224575,206,2,17,Catalog,None,0,Кавоварка DELONGHI SCULTURA ECZ 351.GY,194.31,new
+5,80164,7720352,121054,2,18,Catalog,None,0,Крапельна кавоварка PETRA KM 52.58 Belluno,87.93,new
+5,80164,8606438,206,2,19,Catalog,None,0,Кавомашина DELONGHI ECAM 650.75 MS,2504.71,new
+5,80164,9858811,291,2,20,Catalog,100,1,Кавоварка еспрессо ARIETE 1388 RED,127.1,new
+5,80164,11542605,13,2,21,Catalog,None,0,Кавомашина SIEMENS TE 605209 RW,1290.28,new
+5,80164,15211276,1757,2,22,Catalog,None,0,Крапельна кавоварка TRISTAR KZ-1226,40.57,new
+5,80164,15213145,1757,2,23,Catalog,None,0,Крапельна кавоварка TRISTAR CM-1243,43.49,new
+5,80164,15215861,123313,2,24,Catalog,None,0,Крапельна кавоварка PRINCESS 246000 DeLuxe,126.34,new
+5,80164,15218822,123313,2,25,Catalog,None,0,Крапельна кавоварка PRINCESS 249402 DeLuxe,197.23,new
+746,80164,15219907,120900,17,26,Catalog,None,0,Кавомашина Tchibo Cafissimo Classic 1050 Вт Сріблястий (304822),115.75,new
+2972,80164,16905830,4204,17,27,Catalog,80,1,Кавоварка еспресо для автомобіля HANDPRESSO Auto ESE,189.72,new
+2972,80164,16905842,183,17,28,Catalog,100,2,Кавоварка еспресо Gaggia Accademia SILVER,1358.6,new
+2972,80164,16905848,183,17,29,Catalog,None,0,Кавомашина GAGGIA Naviglio DeLuxe HD8749/11 SILVER,565.43,new
+2972,80164,16905890,183,17,30,Catalog,None,0,Кавоварка еспресо GRAN GAGGIA PRESTIGE SILVER,211.35,new
+2972,80164,16905932,183,17,31,Catalog,None,0,Кавоварка еспресо GAGGIA CAREZZA DELUXE SILVER,281.94,new
+2972,80164,16905968,183,17,0,Catalog,100,2,Кавоварка еспресо GAGGIA Classic Coffee RI9403/11 SILVER,341.52,new
+2972,80164,16905992,182,17,1,Catalog,None,0,Кавомашина SAECO Aulika Top RI9846/01 SILVER,1118.48,new
+2972,80164,16906010,4204,17,2,Catalog,None,0,Портативна кавоварка еспресо HANDPRESSO Outdoor Hybrid Kit,201.1,new
+2972,80164,16906082,182,17,3,Catalog,80,1,Кавомашина SAECO Royal Gran Crema BLACK,764.25,new
+2972,80164,16906106,4204,17,4,Catalog,None,0,Портативна кавоварка еспресо HANDPRESSO WILD HYBRID BLUE,141.9,new
+2972,80164,16906196,183,17,5,Catalog,None,0,Кавоварка еспресо GRAN GAGGIA DELUXE BLACK,178.33,new
+2972,80164,16906232,183,17,6,Catalog,None,3,Кавоварка еспресо GAGGIA Syncrony Logic SILVER,607.17,new
+2972,80164,16906268,183,17,7,Catalog,None,0,Кавоварка еспресо GAGGIA Titanium SILVER,888.01,new
+2972,80164,16906298,183,17,8,Catalog,None,0,Кавоварка еспресо GAGGIA SYNCRONY LOGIC RS CAPPUCCINO SILVER,626.15,new
+2972,80164,16906316,183,17,9,Catalog,None,0,Кавоварка еспресо GAGGIA K111 GREY,182.13,new
+2972,80164,16906346,183,17,10,Catalog,None,1,Кавоварка еспресо GAGGIA L`Amante SILVER,279.28,new
+2972,80164,16906364,183,17,11,Catalog,None,1,Кавоварка еспресо GRAN GAGGIA STYLE BLACK,156.32,new
+2972,80164,16906388,182,17,12,Catalog,None,0,Кавомашина SAECO Aulika MID RI9844/01 BLACK,1094.57,new
+2972,80164,16906400,182,17,13,Catalog,None,3,Кавомашина SAECO Aulika Focus SILVER,909.83,new
+2972,80164,16906448,4204,17,14,Catalog,None,0,Портативна кавоварка еспресо HANDPRESSO Wild ESE Black Generic,78.9,new
+2972,80164,17656152,183,17,15,Catalog,None,0,Кавомашина Gaggia Babila OTC SILVER,1195.41,new
+2972,80164,17656416,183,17,16,Catalog,None,0,Кавомашина Gaggia Velasca Prestige OTC SILVER,758.98,new
+2972,80164,17727072,150948,17,17,Catalog,None,0,Кавоварка еспресо CAFFITALY S22 WHITE,261.1,new
+5,80164,18962797,206,2,18,Catalog,None,0,Кавоварка еспресо DELONGHI EC 685 R,243.61,new
+5,80164,19833709,2103,2,19,Catalog,None,0,Крапельна кавоварка RUSSELL HOBBS RETRO VINTAGE CREAM (21702-56),86.49,new
+5,80164,305703,1149,2,20,Catalog,None,0,Кавоварка CLATRONIC KA 3327,42.88,new
+5,80164,9856396,291,2,21,Catalog,100,1,Кавоварка еспрессо ARIETE 1389 GR,166.94,new
+5,80164,9856403,291,2,22,Catalog,100,1,Кавоварка еспрессо ARIETE 1388 BK,127.1,new
+5,80164,9859413,291,2,23,Catalog,None,0,Кавоварка еспрессо ARIETE 1363 RED,108.5,new
+5,80164,9860386,291,2,24,Catalog,None,0,Кавоварка еспрессо ARIETE 1363 BK,112.68,new
+5,80164,12469627,2522,2,25,Catalog,None,0,Кавомашина NIVONA NICR 778,945.39,new
+2972,80164,16905872,495,17,26,Catalog,None,1,Кавоварка еспресо EUGSTER/FRISMAG Blaser Star Classic,527.48,new
+2972,80164,16906004,183,17,27,Catalog,None,0,Кавомашина GAGGIA Naviglio HD8749/01 BLACK,523.68,new
+2972,80164,16906130,183,17,28,Catalog,100,1,Кавомашина Gaggia Velasca BLACK,573.02,new
+2972,80164,16906154,183,17,29,Catalog,None,0,Кавомашина GAGGIA Brera BLACK,607.17,new
+5,80164,15222469,206,2,30,Catalog,None,0,Кавомашина DELONGHI ECAM 350.75 S,1138.48,new
+5,80164,8589421,1977,2,31,Catalog,90,38,Кавоварка MAXWELL MW-1650 BK,13.47,new
+5,80164,13923,206,2,0,Catalog,100,13,Кавомашина DELONGHI ESAM 4500 S,675.48,new
+5,80164,18156,206,2,1,Catalog,None,0,Кавоварка еспресо DELONGHI ESAM 3500 S,683.07,new
+5,80164,14785878,1063,2,2,Catalog,90,11,Кавоварка еспресо Saturn ST-CM 7086 NEW,29.53,new
+5,80164,12483795,203,2,3,Catalog,100,3,Кавоварка SCARLETT SC-CM33004 Black,32.22,new
+5,80164,21777505,216,2,4,Catalog,None,0,Кавоварка VITEK VT-1528,22.73,new
+5,80164,2039857,206,2,5,Catalog,100,7,Кавоварка DELONGHI EC 680 M еспресо,303.57,new
+5,80164,2212482,206,2,6,Catalog,90,8,Кавоварка єспресо DELONGHI EC 221 B,113.81,new
+5,80164,6276609,182,2,7,Catalog,100,3,Кавомашина SAECO PicoBaristo HD8928/09,948.73,new
+5,80164,301159,3096,2,8,Catalog,90,48,Крапельна кавоварка MAGIO MG-345,13.62,new
+5,80164,1542967,266,2,9,Catalog,100,1,Крапельна кавоварка POLARIS PCM 0210,16.51,new
+5,80164,15212130,1757,2,10,Catalog,None,0,Кавоварка еспресо TRISTAR KZ-2271,100.15,new
+5,80164,8611968,102311,2,11,Catalog,None,0,Кавоварка FIRST FA-5476-1,78.52,new
+5,80164,9962124,266,2,12,Catalog,80,3,Кавоварка POLARIS PCM 1518AE Adore Cappuccino,207.4,new
+5,80164,16204094,216,2,13,Catalog,90,3,Крапельна кавоварка VITEK VT-1503 BK,25.01,new
+5,80164,19833254,2103,2,14,Catalog,100,7,Крапельна кавоварка RUSSELL HOBBS RETRO CLASSIC NOIR (21701-56),77.76,new
+5,80164,639880,150,2,15,Catalog,80,3,Кавоварка ELECTROLUX EEA 255,195.14,new
+5,80164,1347607,23,2,16,Catalog,90,53,Кавоварка PHILIPS Daily Collection HD7459/20,53.09,new
+5,80164,1896037,3142,2,17,Catalog,None,0,Крапельна кавоварка REDMOND RCM-1501,23.53,new
+746,80164,14368358,195,17,18,Catalog,None,0,Капсульна кавоварка Krups Pixie Clips XN3020 Nespresso (1260 Вт/чорно-лимонна),0,new
+5,80164,252234,2522,2,19,Catalog,None,0,Кавоварка NIVONA NICR 757,694.61,new
+5,80164,300195,1149,2,20,Catalog,None,0,Кавоварка CLATRONIC KA 3450,23.64,new
+5,80164,653404,266,2,21,Catalog,90,4,Кавоварка POLARIS PCM 1211,29.18,new
+5,80164,2371777,206,2,22,Catalog,100,3,Кавоварка DELONGHI ECO 311 W,185.92,new
+5,80164,3168702,2103,2,23,Catalog,90,3,Кавоварка RUSSELL HOBBS Legacy Red (20682-56),62.62,new
+5,80164,7444083,23,2,24,Catalog,100,3,Кавомашина PHILIPS 2000 series HD8649/01,303.57,new
+5,80164,9860400,291,2,25,Catalog,None,0,Кавоварка еспрессо ARIETE 1339,110.02,new
+5,80164,12469200,2522,2,26,Catalog,100,1,Кавомашина NIVONA NICR 1030,2462.58,new
+5,80164,12804535,266,2,27,Catalog,100,1,Кавоварка еспресо POLARIS PCM 1517AE,83.45,new
+5,80164,13295354,139351,2,28,Catalog,None,0,Кавоварка CASO Coffee One 1850,104.4,new
+5,80164,13295508,139351,2,29,Catalog,None,0,Кавоварка CASO NOVEA C4 1852,153.28,new
+746,80164,14389436,1757,17,30,Catalog,None,0,Кавоварка крапельна Tristar CM-1234,0,new
+5,80164,15203639,266,2,31,Catalog,None,0,Крапельна кавоварка POLARIS PCM 1215 A,29.6,new
+5,80164,15211199,1757,2,0,Catalog,100,1,Крапельна кавоварка TRISTAR KZ-1224,53.24,new
